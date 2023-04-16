@@ -3,7 +3,7 @@
 require_relative '../calculator'
 
 RSpec.describe Calculator do
-  describe '.multiply' do
-    it { expect(described_class.multiply([1.0], [2.0])).to eq 2.0 }
+  describe '.execute' do
+    it { expect(described_class.execute([1.0], [2.0])).to eq 2.0 }
   end
 end
