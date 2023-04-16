@@ -1,0 +1,3 @@
+class Calculator
+  def self.multiply: (Array[Float] n, Array[Float] m) -> Float
+end
