@@ -1,7 +1,7 @@
 # 20230416 Steep
-## 実行方法
+## How to run
 
-以下のコマンドを実行すると、Steepの型チェックが実行されます。
+Run below command, and checking type using Steep.
 
 ```console
 bundle exec steep check
